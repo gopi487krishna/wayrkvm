@@ -1,0 +1,9 @@
+[submodule "piknik"]
+	path = piknik
+	url = git@github.com:gopi487krishna/piknik.git
+[submodule "rkvm"]
+	path = rkvm
+	url = git@github.com:gopi487krishna/rkvm.git
+[submodule "wl-clipboard-sync"]
+	path = wl-clipboard-sync
+	url = git@github.com:gopi487krishna/wl-clipboard-sync.git
