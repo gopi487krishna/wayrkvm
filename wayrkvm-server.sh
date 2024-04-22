@@ -16,7 +16,7 @@ start() {
 
 stop() {
   pkill wl-paste
-  sudo pkill wayrkvm-rkvm-server
+  sudo pkill -f wayrkvm-rkvm-server
 }
 
 if [ "$1" == "start" ]; then
